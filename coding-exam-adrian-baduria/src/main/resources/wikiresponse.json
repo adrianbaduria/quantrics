@@ -1,0 +1,107 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "geosearch": [
+      {
+        "pageid": 9292891,
+        "ns": 0,
+        "title": "140 New Montgomery",
+        "lat": 37.7868194444444,
+        "lon": -122.399905555556,
+        "dist": 26.2,
+        "primary": "",
+        "country": "US"
+      },
+      {
+        "pageid": 75553960,
+        "ns": 0,
+        "title": "Mourad (restaurant)",
+        "lat": 37.78680555555555,
+        "lon": -122.4,
+        "dist": 33.8,
+        "primary": "",
+        "country": "US"
+      },
+      {
+        "pageid": 1544800,
+        "ns": 0,
+        "title": "Cartoon Art Museum",
+        "lat": 37.787088,
+        "lon": -122.40094,
+        "dist": 111.7,
+        "primary": "",
+        "country": null
+      },
+      {
+        "pageid": 2183989,
+        "ns": 0,
+        "title": "Academy of Art University",
+        "lat": 37.78785,
+        "lon": -122.40065,
+        "dist": 129.9,
+        "primary": "",
+        "country": null
+      },
+      {
+        "pageid": 24801569,
+        "ns": 0,
+        "title": "SPUR (San Francisco organization)",
+        "lat": 37.78716,
+        "lon": -122.4012,
+        "dist": 135.5,
+        "primary": "",
+        "country": "US"
+      },
+      {
+        "pageid": 9297181,
+        "ns": 0,
+        "title": "101 Second Street",
+        "lat": 37.788139,
+        "lon": -122.399056,
+        "dist": 140.9,
+        "primary": "",
+        "country": "US"
+      },
+      {
+        "pageid": 40413203,
+        "ns": 0,
+        "title": "222 Second Street",
+        "lat": 37.78635,
+        "lon": -122.39825,
+        "dist": 143.2,
+        "primary": "",
+        "country": "US"
+      },
+      {
+        "pageid": 20004112,
+        "ns": 0,
+        "title": "The Montgomery (San Francisco)",
+        "lat": 37.78762,
+        "lon": -122.40112,
+        "dist": 145.9,
+        "primary": "",
+        "country": "US"
+      },
+      {
+        "pageid": 18679821,
+        "ns": 0,
+        "title": "California Historical Society",
+        "lat": 37.78684444444444,
+        "lon": -122.40148055555557,
+        "dist": 159.1,
+        "primary": "",
+        "country": "US"
+      },
+      {
+        "pageid": 71882190,
+        "ns": 0,
+        "title": "St. Regis Museum Tower",
+        "lat": 37.7863,
+        "lon": -122.4013,
+        "dist": 161,
+        "primary": "",
+        "country": "US"
+      }
+    ]
+  }
+}
